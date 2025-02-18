@@ -1,7 +1,7 @@
 # Hi there, I'm Mihail! 👋  
 
 🚀 **About Me:**  
-I’m a software developer with 10 months of experience, specializing in **Telegram bots**, **process automation**, and **database management**.  
+I’m a software developer with **2+ years of experience**, specializing in **Telegram bots**, **process automation**, and **database management**.  
 
 🎯 **What I Do:**  
 - Develop **Telegram bots** for business automation  
@@ -10,11 +10,14 @@ I’m a software developer with 10 months of experience, specializing in **Teleg
 - Automate business processes for efficiency  
 - Manage **PostgreSQL, SQLite** databases  
 - Utilize **ORM, Docker, API, Git**  
+- Have experience with **Flask and Spring** for backend development  
 - Have experience with **TypeScript, JavaScript, PHP, and Angular**  
 
 🛠 **Tech Stack:**  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
@@ -32,5 +35,4 @@ I’m a software developer with 10 months of experience, specializing in **Teleg
 
 📫 **How to Reach Me:**  
 - ✉️ Email: m.moiseev@it-park.tech  
-- 💼 LinkedIn: [YOUR LINKEDIN]  
 - 🌍 Telegram: https://t.me/MED77_1  
