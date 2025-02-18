@@ -28,11 +28,6 @@ I’m a software developer with **2+ years of experience**, specializing in **Te
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat&logo=junit5&logoColor=white)  
 ![Mockito](https://img.shields.io/badge/-Mockito-FFCA28?style=flat)  
 
-📈 **GitHub Stats:**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME)  
-
 📫 **How to Reach Me:**  
 - ✉️ Email: m.moiseev@it-park.tech  
 - 🌍 Telegram: https://t.me/MED77_1  
