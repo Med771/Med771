@@ -29,5 +29,5 @@ I’m a software developer with **2+ years of experience**, specializing in **Te
 ![Mockito](https://img.shields.io/badge/-Mockito-FFCA28?style=flat)  
 
 📫 **How to Reach Me:**  
-- ✉️ Email: m.moiseev@it-park.tech  
+- ✉️ Email: mm7737333@gmail.com
 - 🌍 Telegram: https://t.me/MED77_1  
